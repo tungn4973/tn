@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fad1e484.css",
+    "main.js": "/static/js/main.891a0e67.js",
+    "static/js/453.d7446e4a.chunk.js": "/static/js/453.d7446e4a.chunk.js",
+    "static/media/videotest.mp4": "/static/media/videotest.adb1e37b744fe8c6cb4b.mp4",
+    "static/media/contactus.png": "/static/media/contactus.04449ef7d687a524d379.png",
+    "static/media/dv3.png": "/static/media/dv3.23720db23d079c0355c4.png",
+    "static/media/dv2.png": "/static/media/dv2.d68017c3d7785a6cbbf9.png",
+    "static/media/map.png": "/static/media/map.06d906eb32bde48808bc.png",
+    "static/media/aboutus1.png": "/static/media/aboutus1.59a07910d5d16283b4a0.png",
+    "static/media/dv1.jpg": "/static/media/dv1.b09e6c6a68036f4e0ea7.jpg",
+    "static/media/bannerAboutus.png": "/static/media/bannerAboutus.1ceb5ef95a682ad98688.png",
+    "static/media/dv6.png": "/static/media/dv6.c9f40f5f4bff57308b47.png",
+    "static/media/dv4.png": "/static/media/dv4.913baab67257e8ccfb3a.png",
+    "static/media/BVDHY.png": "/static/media/BVDHY.9b24da781d006aa24ce2.png",
+    "static/media/doctor2.png": "/static/media/doctor2.4eb5f5f6a40db223255f.png",
+    "static/media/dv5.png": "/static/media/dv5.ac8fc65fb49d8e255e10.png",
+    "static/media/BVvietduc.png": "/static/media/BVvietduc.72142be05922684c60f3.png",
+    "static/media/BVK.png": "/static/media/BVK.4602022cd11ac85539a3.png",
+    "static/media/banner.png": "/static/media/banner.a4d3c1e42c2e9813d0ac.png",
+    "static/media/Oswald-Bold.ttf": "/static/media/Oswald-Bold.35f5cd6d606607dd9214.ttf",
+    "static/media/Oswald-Medium.ttf": "/static/media/Oswald-Medium.8eb8567dd9afeda038d7.ttf",
+    "static/media/Oswald-Regular.ttf": "/static/media/Oswald-Regular.2382cc8b7db04633e754.ttf",
+    "static/media/BV_xanhpon.png": "/static/media/BV_xanhpon.cbf14c7ac1046890cb42.png",
+    "static/media/doctor3.png": "/static/media/doctor3.2944047275a8bac9467b.png",
+    "static/media/logoxtp.jpg": "/static/media/logoxtp.587607a630b4270c1ff4.jpg",
+    "static/media/doctor.png": "/static/media/doctor.1cecbf237a52037e746e.png",
+    "static/media/nurse.png": "/static/media/nurse.d04839716f770632c7c6.png",
+    "static/media/aboutus2.png": "/static/media/aboutus2.9cdadecc4d36ee237b05.png",
+    "static/media/logo1.png": "/static/media/logo1.3c1d3055caa0f5d81a12.png",
+    "index.html": "/index.html",
+    "main.fad1e484.css.map": "/static/css/main.fad1e484.css.map",
+    "main.891a0e67.js.map": "/static/js/main.891a0e67.js.map",
+    "453.d7446e4a.chunk.js.map": "/static/js/453.d7446e4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fad1e484.css",
+    "static/js/main.891a0e67.js"
+  ]
+}
